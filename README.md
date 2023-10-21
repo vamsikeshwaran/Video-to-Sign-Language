@@ -22,8 +22,6 @@ pip install os
 
 pip install tempfile
 
-pip install speech_recognition
-
 git clone https://github.com/vamsikeshwaran/Video-to-Sign-Language
 
 cd Video-to-Sign-Language
