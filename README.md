@@ -11,14 +11,23 @@ PREREQUISITES
 PYTHON 3.10.7
 
 STEPS
+
 pip install streamlit
+
 pip install moviepy.editor
+
 pip install speech_recognition
+
 pip install os
+
 pip install tempfile
+
 pip install speech_recognition
+
 git clone https://github.com/vamsikeshwaran/Video-to-Sign-Language
+
 cd Video-to-Sign-Language
+
 streamlit run app-1.py
  
 ￼
